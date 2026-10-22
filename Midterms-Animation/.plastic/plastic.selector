@@ -1,0 +1,4 @@
+repository "Midterms-Animation/Midterms-Animation@18968427514990@cloud"
+  path "/"
+    br "/main"
+    co "/main"
