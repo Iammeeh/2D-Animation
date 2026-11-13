@@ -5,7 +5,7 @@ public class TestDummy : MonoBehaviour
     public int health = 100;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("MeleeAttack"))
+        if (collision.CompareTag("PlayerAttack"))
         {
             Debug.Log("WHAT IN THE BLOODY HELLS WERE YOU THINKING I WAS RIGHT THERE!");
             health -= 10;

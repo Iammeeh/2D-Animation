@@ -93,7 +93,7 @@ AnimationClip:
   m_HasMotionFloatCurves: 0
   m_Events:
   - time: 1
-    functionName: SpawnProjectile
+    functionName: FireProjectile
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0

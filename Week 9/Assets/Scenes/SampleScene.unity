@@ -266,11 +266,12 @@ GameObject:
   m_Component:
   - component: {fileID: 536893516}
   - component: {fileID: 536893515}
-  - component: {fileID: 536893518}
   - component: {fileID: 536893517}
-  - component: {fileID: 536893519}
+  - component: {fileID: 536893520}
+  - component: {fileID: 536893521}
+  - component: {fileID: 536893522}
   m_Layer: 0
-  m_Name: TestDummy
+  m_Name: MeleeEnemyTest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -326,7 +327,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -9095717837082945937, guid: 207ee8102dd4143d288186ef0be518ee, type: 3}
-  m_Color: {r: 1, g: 0.0990566, b: 0.0990566, a: 1}
+  m_Color: {r: 0.8509928, g: 1, b: 0, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -345,7 +346,7 @@ Transform:
   m_GameObject: {fileID: 536893514}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.59, y: -0.13315, z: 0}
+  m_LocalPosition: {x: -1.96, y: -0.13315, z: 0}
   m_LocalScale: {x: 1.8309, y: 1.8309, z: 1.8309}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -359,7 +360,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 536893514}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -378,8 +379,30 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!70 &536893518
-CapsuleCollider2D:
+--- !u!95 &536893520
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 536893514}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 269e33679055d8d40afe1d4a9bfad18f, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!61 &536893521
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -413,9 +436,18 @@ CapsuleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Size: {x: 1.0000001, y: 2.0000002}
-  m_Direction: 0
---- !u!114 &536893519
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 1, y: 2}
+    newSize: {x: 1, y: 2}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 1, y: 2}
+  m_EdgeRadius: 0
+--- !u!114 &536893522
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -424,10 +456,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 536893514}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b9aac914815c884f8c798c5aa9e3e0b, type: 3}
+  m_Script: {fileID: 11500000, guid: c84ba92587e64db41ab5cd52ea80aa09, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::TestDummy
-  health: 100
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDamageHandler
 --- !u!1 &572419273
 GameObject:
   m_ObjectHideFlags: 0
@@ -440,7 +471,7 @@ GameObject:
   - component: {fileID: 572419275}
   m_Layer: 0
   m_Name: MeleeHitbox
-  m_TagString: MeleeAttack
+  m_TagString: PlayerAttack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -625,7 +656,7 @@ GameObject:
   - component: {fileID: 961724283}
   m_Layer: 0
   m_Name: CastingSpawn
-  m_TagString: Untagged
+  m_TagString: PlayerAttack
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -656,7 +687,7 @@ GameObject:
   - component: {fileID: 1521989633}
   - component: {fileID: 1521989632}
   - component: {fileID: 1521989631}
-  - component: {fileID: 1521989634}
+  - component: {fileID: 1521989635}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -755,7 +786,7 @@ Transform:
   m_GameObject: {fileID: 1521989630}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -4.52, y: 0, z: 0}
+  m_LocalPosition: {x: -5.62, y: 0, z: 0}
   m_LocalScale: {x: 8.2567, y: 8.2567, z: 8.2567}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -763,7 +794,7 @@ Transform:
   - {fileID: 961724283}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1521989634
+--- !u!114 &1521989635
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -772,12 +803,13 @@ MonoBehaviour:
   m_GameObject: {fileID: 1521989630}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e07c2d3cf922d62498e79fef9d6bda17, type: 3}
+  m_Script: {fileID: 11500000, guid: 4fac8a796f4401e429ab83aed97d708e, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PlayerController
-  melee_Hitbox: {fileID: 572419275}
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerCombatController
+  meleeHitbox: {fileID: 572419275}
   projectilePrefab: {fileID: 2202507949139225758, guid: 75d5baa7ded87014eb4629c2aa815529, type: 3}
-  spawnProjectile: {fileID: 961724283}
+  firePoint: {fileID: 961724283}
+  projectileSpeed: 15
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

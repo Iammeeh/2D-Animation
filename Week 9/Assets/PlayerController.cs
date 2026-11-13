@@ -1,9 +1,10 @@
-using UnityEngine;
+/*using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
     private Animator animator;
     public Collider2D melee_Hitbox;
+*//*    public Collider2D fireball_Hitbox;*//*
     public GameObject projectilePrefab;
     public Transform spawnProjectile;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -11,16 +12,17 @@ public class PlayerController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         melee_Hitbox.enabled = false;
+*//*        fireball_Hitbox.enabled = false;*//*
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetKeyDown(KeyCode.J))
         {
             animator.SetTrigger("MeleeAttack");
         }
-        if (Input.GetKeyDown(KeyCode.E))
+        if (Input.GetKeyDown(KeyCode.K))
         {
             animator.SetTrigger("RangeAttack");
         }
@@ -41,4 +43,15 @@ public class PlayerController : MonoBehaviour
     {
         melee_Hitbox.enabled = false;
     }
+
+*//*    public void FireballHitbox_Enabled()
+    {
+        fireball_Hitbox.enabled = true;
+    }
+    public void FireballHitbox_Disabled()
+    {
+        fireball_Hitbox.enabled = true;
+    }*//*
 }
+
+*/
