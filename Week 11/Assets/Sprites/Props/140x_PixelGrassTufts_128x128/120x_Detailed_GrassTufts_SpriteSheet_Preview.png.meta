@@ -1,0 +1,3304 @@
+fileFormatVersion: 2
+guid: 191d08a77bb57314692cc7884963a07d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6390305542505909717
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_0
+  - first:
+      213: -6076112882700315132
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_1
+  - first:
+      213: 3079799606249804470
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_2
+  - first:
+      213: -9053360131813154985
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_3
+  - first:
+      213: -5279762953394225308
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_4
+  - first:
+      213: -9150550263920227479
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_5
+  - first:
+      213: 1168603304092340895
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_6
+  - first:
+      213: 4192157377715427459
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_7
+  - first:
+      213: 1611421451178729806
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_8
+  - first:
+      213: 6186089815316243280
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_9
+  - first:
+      213: 1289064024165655627
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_10
+  - first:
+      213: 7762849442289575138
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_11
+  - first:
+      213: -1596258130578159847
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_12
+  - first:
+      213: 8316588609755149059
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_13
+  - first:
+      213: -1856355522482206674
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_14
+  - first:
+      213: 5044730653286608188
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_15
+  - first:
+      213: -1511730984288235426
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_16
+  - first:
+      213: -812137746213356707
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_17
+  - first:
+      213: 7478811582108359026
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_18
+  - first:
+      213: 6995971138885503835
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_19
+  - first:
+      213: -8629014522134516771
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_20
+  - first:
+      213: 6309079102693243379
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_21
+  - first:
+      213: 5988015302946467754
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_22
+  - first:
+      213: -2369208547354429606
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_23
+  - first:
+      213: 2556787950135663118
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_24
+  - first:
+      213: -6409288959176026950
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_25
+  - first:
+      213: -3081757595955510449
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_26
+  - first:
+      213: 5583628297550100975
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_27
+  - first:
+      213: 744140653873391105
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_28
+  - first:
+      213: -5105197342396939387
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_29
+  - first:
+      213: 6567286423698896071
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_30
+  - first:
+      213: -3918824292766062897
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_31
+  - first:
+      213: -9133967889794011453
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_32
+  - first:
+      213: 8704606360569009122
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_33
+  - first:
+      213: 7759193161365232205
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_34
+  - first:
+      213: 8879800118448079415
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_35
+  - first:
+      213: 658653996820387492
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_36
+  - first:
+      213: 7745727610397289070
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_37
+  - first:
+      213: -7188674063448612808
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_38
+  - first:
+      213: -7279864583706170460
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_39
+  - first:
+      213: 3688070559514314344
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_40
+  - first:
+      213: 483360540924386817
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_41
+  - first:
+      213: -422386617194411477
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_42
+  - first:
+      213: -8162521504930698327
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_43
+  - first:
+      213: 5112480914884456983
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_44
+  - first:
+      213: -2768035159893880538
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_45
+  - first:
+      213: 5492017185838821514
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_46
+  - first:
+      213: 8899782865687023570
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_47
+  - first:
+      213: 7813953559102942004
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_48
+  - first:
+      213: -5757002134170580938
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_49
+  - first:
+      213: 2534087920586318190
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_50
+  - first:
+      213: 7483833324996604711
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_51
+  - first:
+      213: 4177385610327293839
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_52
+  - first:
+      213: 5562610310728307221
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_53
+  - first:
+      213: -3043068297262063067
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_54
+  - first:
+      213: -1051612158116504709
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_55
+  - first:
+      213: 6723530458941388775
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_56
+  - first:
+      213: -253501729957200667
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_57
+  - first:
+      213: 8516278685663759316
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_58
+  - first:
+      213: -5244635051203559688
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_59
+  - first:
+      213: -8919869223689463777
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_60
+  - first:
+      213: 7462631056894029013
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_61
+  - first:
+      213: -3020613960113073358
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_62
+  - first:
+      213: -285031303261171308
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_63
+  - first:
+      213: 6585522875320137540
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_64
+  - first:
+      213: -3578700763006034553
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_65
+  - first:
+      213: -9144214386702686512
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_66
+  - first:
+      213: 7332140271169040138
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_67
+  - first:
+      213: -2966018193723333186
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_68
+  - first:
+      213: 3184289178369715538
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_69
+  - first:
+      213: -7147918361070233455
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_70
+  - first:
+      213: -861547915416643297
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_71
+  - first:
+      213: -4367018901277739260
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_72
+  - first:
+      213: 5518136049248981289
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_73
+  - first:
+      213: 8339500050871223082
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_74
+  - first:
+      213: -1131814701827293470
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_75
+  - first:
+      213: 6264544603552322117
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_76
+  - first:
+      213: -7576673653763219329
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_77
+  - first:
+      213: -1699879497005997943
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_78
+  - first:
+      213: -2953411069333937744
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_79
+  - first:
+      213: -2729008495115847333
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_80
+  - first:
+      213: 8368627233310899347
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_81
+  - first:
+      213: -7531328014934891405
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_82
+  - first:
+      213: -636523356740525681
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_83
+  - first:
+      213: -8774693923563140731
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_84
+  - first:
+      213: -1670892032755592635
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_85
+  - first:
+      213: -7820445204672512156
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_86
+  - first:
+      213: 7203428741343869433
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_87
+  - first:
+      213: -7958724390610670337
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_88
+  - first:
+      213: 2431649902526122286
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_89
+  - first:
+      213: 2469310525414022253
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_90
+  - first:
+      213: 6100689082152183602
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_91
+  - first:
+      213: 1964308019525565716
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_92
+  - first:
+      213: 5607997366255782473
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_93
+  - first:
+      213: 6927144290531204919
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_94
+  - first:
+      213: -9045336920278084425
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_95
+  - first:
+      213: -7685600017391365450
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_96
+  - first:
+      213: 8621025585962923168
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_97
+  - first:
+      213: 5107991465938623372
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_98
+  - first:
+      213: 5325568922178992452
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_99
+  - first:
+      213: -5563260873930954980
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_100
+  - first:
+      213: 3726756932790134348
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_101
+  - first:
+      213: 569418809076435214
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_102
+  - first:
+      213: -6251053981155824634
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_103
+  - first:
+      213: 313612636822353445
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_104
+  - first:
+      213: 8973028963928503416
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_105
+  - first:
+      213: 3888958980558383336
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_106
+  - first:
+      213: -8982398666117303674
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_107
+  - first:
+      213: -7034243910119571157
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_108
+  - first:
+      213: -302030634189776048
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_109
+  - first:
+      213: 1188323456216148557
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_110
+  - first:
+      213: 5764388681276032020
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_111
+  - first:
+      213: 1905060335417325551
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_112
+  - first:
+      213: -1509149293250947295
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_113
+  - first:
+      213: 6869500746321899643
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_114
+  - first:
+      213: -3873158930514173210
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_115
+  - first:
+      213: -8458754160333298408
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_116
+  - first:
+      213: -4765143057933900157
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_117
+  - first:
+      213: -802170428661047016
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_118
+  - first:
+      213: -4068937771615910214
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_119
+  - first:
+      213: -6840326340648203231
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_120
+  - first:
+      213: 2530190855433450020
+    second: 120x_Detailed_GrassTufts_SpriteSheet_Preview_121
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1304
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd464b980deea850800000000000000
+      internalID: 6390305542505909717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406197b968f4daba0800000000000000
+      internalID: -6076112882700315132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1304
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b258e5ac65adba20800000000000000
+      internalID: 3079799606249804470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1304
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fd7974de00c5280800000000000000
+      internalID: -9053360131813154985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1177
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f7ba831938ab6b0800000000000000
+      internalID: -5279762953394225308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1177
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b8da34407b20180800000000000000
+      internalID: -9150550263920227479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_6
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1180
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9295c77386b73010800000000000000
+      internalID: 1168603304092340895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_7
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1183
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388d24d8ce88d2a30800000000000000
+      internalID: 4192157377715427459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1183
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41e3fca54bec5610800000000000000
+      internalID: 1611421451178729806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1180
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053269669e769d550800000000000000
+      internalID: 6186089815316243280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_10
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1183
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44212576eca3e110800000000000000
+      internalID: 1289064024165655627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_11
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1180
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4628c307e2bbb60800000000000000
+      internalID: 7762849442289575138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_12
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1183
+        width: 128
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9174f0500b3f8d9e0800000000000000
+      internalID: -1596258130578159847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_13
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1177
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303f38307457a6370800000000000000
+      internalID: 8316588609755149059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_14
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1172
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e280d99dc76ec36e0800000000000000
+      internalID: -1856355522482206674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1048
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d2ca01dcb720640800000000000000
+      internalID: 5044730653286608188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1041
+        width: 121
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e505c85eda0450be0800000000000000
+      internalID: -1511730984288235426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1047
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b3440d505bab4f0800000000000000
+      internalID: -812137746213356707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1047
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27955ad62831ac760800000000000000
+      internalID: 7478811582108359026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_19
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1047
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc7204faea61160800000000000000
+      internalID: 6995971138885503835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_20
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1053
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb2c76b2059f3880800000000000000
+      internalID: -8629014522134516771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_21
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1045
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9fed7540a5e8750800000000000000
+      internalID: 6309079102693243379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_22
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1049
+        width: 109
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf2ab13134b91350800000000000000
+      internalID: 5988015302946467754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_23
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 1045
+        width: 130
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57be18f061ee1fd0800000000000000
+      internalID: -2369208547354429606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_24
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1042
+        width: 118
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ad5dd18198b7320800000000000000
+      internalID: 2556787950135663118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_25
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1072
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4da7546a1ad07a0800000000000000
+      internalID: -6409288959176026950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_26
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1048
+        width: 106
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43c5395bc56b35d0800000000000000
+      internalID: -3081757595955510449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 913
+        width: 106
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fa417a580d7d40800000000000000
+      internalID: 5583628297550100975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 911
+        width: 121
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106ec096bf7b35a00800000000000000
+      internalID: 744140653873391105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 918
+        width: 130
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583892ac012b629b0800000000000000
+      internalID: -5105197342396939387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_30
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 917
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c471d61530b32b50800000000000000
+      internalID: 6567286423698896071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_31
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 933
+        width: 130
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6e18c811a8d99c0800000000000000
+      internalID: -3918824292766062897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_32
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 917
+        width: 130
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cee00b1990ad3180800000000000000
+      internalID: -9133967889794011453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_33
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 938
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3525fad59fcc870800000000000000
+      internalID: 8704606360569009122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_34
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 923
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a90def1113eab60800000000000000
+      internalID: 7759193161365232205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_35
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 929
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732c19819236b3b70800000000000000
+      internalID: 8879800118448079415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_36
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 935
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6de560252042900800000000000000
+      internalID: 658653996820387492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_37
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 945
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a6aa8193a5e7b60800000000000000
+      internalID: 7745727610397289070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 923
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830e41ac603bc3c90800000000000000
+      internalID: -7188674063448612808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 808
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab2f334bb9b8fa90800000000000000
+      internalID: -7279864583706170460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 793
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8664d6632a8ae2330800000000000000
+      internalID: 3688070559514314344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 791
+        width: 124
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e1d3cd9dd35b600800000000000000
+      internalID: 483360540924386817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 785
+        width: 116
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a8f3c0c91632af0800000000000000
+      internalID: -422386617194411477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_43
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 790
+        width: 124
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab6e1b20f5e8be80800000000000000
+      internalID: -8162521504930698327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_44
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 784
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f6a41e4e23f640800000000000000
+      internalID: 5112480914884456983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_45
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 785
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621dbb010b6f599d0800000000000000
+      internalID: -2768035159893880538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_46
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 781
+        width: 91
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8073465880973c40800000000000000
+      internalID: 5492017185838821514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_47
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 849
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df026ffc51628b70800000000000000
+      internalID: 8899782865687023570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_48
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 781
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43beab5ac5db07c60800000000000000
+      internalID: 7813953559102942004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_49
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 782
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638c8959f050b10b0800000000000000
+      internalID: -5757002134170580938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_50
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 794
+        width: 130
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61e720a983ea2320800000000000000
+      internalID: 2534087920586318190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_51
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 793
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72337ae02caebd760800000000000000
+      internalID: 7483833324996604711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_52
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 652
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ff261741e09f930800000000000000
+      internalID: 4177385610327293839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_53
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 664
+        width: 124
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d2ea0b9c523d40800000000000000
+      internalID: 5562610310728307221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_54
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 666
+        width: 109
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522217aa189d4c5d0800000000000000
+      internalID: -3043068297262063067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_55
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 669
+        width: 103
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bdbf9505ce761f0800000000000000
+      internalID: -1051612158116504709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_56
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 669
+        width: 130
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e778b16457ce4d50800000000000000
+      internalID: 6723530458941388775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_57
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 669
+        width: 106
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec34fb05816b7cf0800000000000000
+      internalID: -253501729957200667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_58
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 666
+        width: 124
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db083be756ef2670800000000000000
+      internalID: 8516278685663759316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_59
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 672
+        width: 115
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fef27c45305737b0800000000000000
+      internalID: -5244635051203559688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_60
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 666
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18dc075332463480800000000000000
+      internalID: -8919869223689463777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_61
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 664
+        width: 130
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc67f35867909760800000000000000
+      internalID: 7462631056894029013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_62
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 681
+        width: 127
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233dfdf6b9f9416d0800000000000000
+      internalID: -3020613960113073358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 521
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49150433a8d5b0cf0800000000000000
+      internalID: -285031303261171308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 539
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4477aabd92a746b50800000000000000
+      internalID: 6585522875320137540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_65
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 521
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d1b97ed96e55ec0800000000000000
+      internalID: -3578700763006034553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_66
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 527
+        width: 125
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6e192a679391180800000000000000
+      internalID: -9144214386702686512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_67
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 543
+        width: 127
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fed52babef0c560800000000000000
+      internalID: 7332140271169040138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_68
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 531
+        width: 130
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb566cdda2696d6d0800000000000000
+      internalID: -2966018193723333186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_69
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 521
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de8daf22ed03c20800000000000000
+      internalID: 3184289178369715538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_70
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 525
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1989ae43f1e7dcc90800000000000000
+      internalID: -7147918361070233455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_71
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 539
+        width: 127
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19dc905cba2b04f0800000000000000
+      internalID: -861547915416643297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_72
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 534
+        width: 130
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4077ced527b3563c0800000000000000
+      internalID: -4367018901277739260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_73
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 533
+        width: 126
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92153cd108b549c40800000000000000
+      internalID: 5518136049248981289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 410
+        width: 128
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2308889c1bdbb370800000000000000
+      internalID: 8339500050871223082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_75
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 403
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eef40a768cfa40f0800000000000000
+      internalID: -1131814701827293470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 404
+        width: 128
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542935e302220f650800000000000000
+      internalID: 6264544603552322117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_77
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 407
+        width: 122
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70e160747f3ad690800000000000000
+      internalID: -7576673653763219329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_78
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 406
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980ecf39a90d868e0800000000000000
+      internalID: -1699879497005997943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_79
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 401
+        width: 130
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1e4a0c7406307d0800000000000000
+      internalID: -2953411069333937744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_80
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 407
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59b89b8b3d902ad0800000000000000
+      internalID: -2729008495115847333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_81
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 391
+        width: 124
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cf72b3126532470800000000000000
+      internalID: 8368627233310899347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_82
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 391
+        width: 112
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374abd6b2195b7790800000000000000
+      internalID: -7531328014934891405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_83
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 391
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f81ed36216d9a27f0800000000000000
+      internalID: -636523356740525681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_84
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 392
+        width: 109
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5898d39ed560a3680800000000000000
+      internalID: -8774693923563140731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_85
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 261
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54292998c8ccfc8e0800000000000000
+      internalID: -1670892032755592635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_86
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 261
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f76165582387390800000000000000
+      internalID: -7820445204672512156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 262
+        width: 130
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9f3ac5648b7f360800000000000000
+      internalID: 7203428741343869433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_88
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 264
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffce968755eec8190800000000000000
+      internalID: -7958724390610670337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_89
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 264
+        width: 130
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29ce22f3b4feb120800000000000000
+      internalID: 2431649902526122286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_90
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 261
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c9f6307d0c44220800000000000000
+      internalID: 2469310525414022253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_91
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 262
+        width: 130
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237e8cab5600aa450800000000000000
+      internalID: 6100689082152183602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_92
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 273
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41db5458cbf924b10800000000000000
+      internalID: 1964308019525565716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_93
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 277
+        width: 130
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a800564eb93dd40800000000000000
+      internalID: 5607997366255782473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_94
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 261
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fdcf8d709222060800000000000000
+      internalID: 6927144290531204919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_95
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 261
+        width: 109
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b45919cef1887280800000000000000
+      internalID: -9045336920278084425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_96
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2d6a51183475590800000000000000
+      internalID: -7685600017391365450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_97
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4bfd2281904a770800000000000000
+      internalID: 8621025585962923168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_98
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b9ffacc2b33e640800000000000000
+      internalID: 5107991465938623372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_99
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 131
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449b659f7b838e940800000000000000
+      internalID: 5325568922178992452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_100
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 144
+        width: 127
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c172488e5b35bc2b0800000000000000
+      internalID: -5563260873930954980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_101
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 143
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c462e276fa918b330800000000000000
+      internalID: 3726756932790134348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_102
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 146
+        width: 130
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e094d63d36bf6e700800000000000000
+      internalID: 569418809076435214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_103
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 164
+        width: 125
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c6a6d068bcf39a0800000000000000
+      internalID: -6251053981155824634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_104
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 171
+        width: 127
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526bed6180d2a5400800000000000000
+      internalID: 313612636822353445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_105
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 159
+        width: 128
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874ff323d4a968c70800000000000000
+      internalID: 8973028963928503416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_106
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 170
+        width: 130
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e86f36969b58f530800000000000000
+      internalID: 3888958980558383336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_107
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 44
+        width: 130
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682b223010c185380800000000000000
+      internalID: -8982398666117303674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_108
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 38
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b214ed9ce68516e90800000000000000
+      internalID: -7034243910119571157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_109
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 19
+        width: 128
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b15d90db8fecbf0800000000000000
+      internalID: -302030634189776048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_110
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 14
+        width: 130
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a270e23e5cd7010800000000000000
+      internalID: 1188323456216148557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_111
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 87
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4148dbee6f83fff40800000000000000
+      internalID: 5764388681276032020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_112
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 37
+        width: 130
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe77c381842207a10800000000000000
+      internalID: 1905060335417325551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_113
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 25
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127debea6bc6e0be0800000000000000
+      internalID: -1509149293250947295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_114
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 32
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b703cc8588e555f50800000000000000
+      internalID: 6869500746321899643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_115
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 28
+        width: 130
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2221c3976cf3ac0800000000000000
+      internalID: -3873158930514173210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_116
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 25
+        width: 130
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815e9f658e77c9a80800000000000000
+      internalID: -8458754160333298408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_117
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 52
+        width: 124
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3866ee7b2afceddb0800000000000000
+      internalID: -4765143057933900157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_118
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811e556ce3e1ed4f0800000000000000
+      internalID: -802170428661047016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_119
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 50
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab60aa5a7aa3887c0800000000000000
+      internalID: -4068937771615910214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_120
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c8aed4f674211a0800000000000000
+      internalID: -6840326340648203231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 120x_Detailed_GrassTufts_SpriteSheet_Preview_121
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4227d007d2b0d1320800000000000000
+      internalID: 2530190855433450020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_0: 6390305542505909717
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_1: -6076112882700315132
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_10: 1289064024165655627
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_100: -5563260873930954980
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_101: 3726756932790134348
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_102: 569418809076435214
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_103: -6251053981155824634
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_104: 313612636822353445
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_105: 8973028963928503416
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_106: 3888958980558383336
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_107: -8982398666117303674
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_108: -7034243910119571157
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_109: -302030634189776048
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_11: 7762849442289575138
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_110: 1188323456216148557
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_111: 5764388681276032020
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_112: 1905060335417325551
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_113: -1509149293250947295
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_114: 6869500746321899643
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_115: -3873158930514173210
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_116: -8458754160333298408
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_117: -4765143057933900157
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_118: -802170428661047016
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_119: -4068937771615910214
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_12: -1596258130578159847
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_120: -6840326340648203231
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_121: 2530190855433450020
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_13: 8316588609755149059
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_14: -1856355522482206674
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_15: 5044730653286608188
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_16: -1511730984288235426
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_17: -812137746213356707
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_18: 7478811582108359026
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_19: 6995971138885503835
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_2: 3079799606249804470
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_20: -8629014522134516771
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_21: 6309079102693243379
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_22: 5988015302946467754
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_23: -2369208547354429606
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_24: 2556787950135663118
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_25: -6409288959176026950
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_26: -3081757595955510449
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_27: 5583628297550100975
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_28: 744140653873391105
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_29: -5105197342396939387
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_3: -9053360131813154985
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_30: 6567286423698896071
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_31: -3918824292766062897
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_32: -9133967889794011453
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_33: 8704606360569009122
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_34: 7759193161365232205
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_35: 8879800118448079415
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_36: 658653996820387492
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_37: 7745727610397289070
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_38: -7188674063448612808
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_39: -7279864583706170460
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_4: -5279762953394225308
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_40: 3688070559514314344
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_41: 483360540924386817
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_42: -422386617194411477
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_43: -8162521504930698327
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_44: 5112480914884456983
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_45: -2768035159893880538
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_46: 5492017185838821514
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_47: 8899782865687023570
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_48: 7813953559102942004
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_49: -5757002134170580938
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_5: -9150550263920227479
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_50: 2534087920586318190
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_51: 7483833324996604711
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_52: 4177385610327293839
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_53: 5562610310728307221
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_54: -3043068297262063067
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_55: -1051612158116504709
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_56: 6723530458941388775
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_57: -253501729957200667
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_58: 8516278685663759316
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_59: -5244635051203559688
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_6: 1168603304092340895
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_60: -8919869223689463777
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_61: 7462631056894029013
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_62: -3020613960113073358
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_63: -285031303261171308
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_64: 6585522875320137540
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_65: -3578700763006034553
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_66: -9144214386702686512
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_67: 7332140271169040138
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_68: -2966018193723333186
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_69: 3184289178369715538
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_7: 4192157377715427459
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_70: -7147918361070233455
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_71: -861547915416643297
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_72: -4367018901277739260
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_73: 5518136049248981289
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_74: 8339500050871223082
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_75: -1131814701827293470
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_76: 6264544603552322117
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_77: -7576673653763219329
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_78: -1699879497005997943
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_79: -2953411069333937744
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_8: 1611421451178729806
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_80: -2729008495115847333
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_81: 8368627233310899347
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_82: -7531328014934891405
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_83: -636523356740525681
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_84: -8774693923563140731
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_85: -1670892032755592635
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_86: -7820445204672512156
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_87: 7203428741343869433
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_88: -7958724390610670337
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_89: 2431649902526122286
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_9: 6186089815316243280
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_90: 2469310525414022253
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_91: 6100689082152183602
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_92: 1964308019525565716
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_93: 5607997366255782473
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_94: 6927144290531204919
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_95: -9045336920278084425
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_96: -7685600017391365450
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_97: 8621025585962923168
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_98: 5107991465938623372
+      120x_Detailed_GrassTufts_SpriteSheet_Preview_99: 5325568922178992452
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

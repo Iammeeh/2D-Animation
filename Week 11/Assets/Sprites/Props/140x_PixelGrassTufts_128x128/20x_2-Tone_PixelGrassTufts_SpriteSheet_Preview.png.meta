@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: f960d31c123f46f48885d04c4c4d297b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1113384905275911164
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_0
+  - first:
+      213: 3209723444327436252
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_1
+  - first:
+      213: 7552527834177015228
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_2
+  - first:
+      213: 8926450934876644125
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_3
+  - first:
+      213: 6324025717787350397
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_4
+  - first:
+      213: -3685241239533482655
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_5
+  - first:
+      213: -204305806494480489
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_6
+  - first:
+      213: -4196870936066170230
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_7
+  - first:
+      213: 4415164080013688507
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_8
+  - first:
+      213: -2277093269115011850
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_9
+  - first:
+      213: 2757825102421088935
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_10
+  - first:
+      213: 4279414390974916270
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_11
+  - first:
+      213: -4631693992153386883
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_12
+  - first:
+      213: -435496074209909177
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_13
+  - first:
+      213: 8789146126473067297
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_14
+  - first:
+      213: 5443128694978974261
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_15
+  - first:
+      213: -1248374135409931274
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_16
+  - first:
+      213: -7705625770113220962
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_17
+  - first:
+      213: 6313632797623774619
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_18
+  - first:
+      213: 1728166044513721854
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_19
+  - first:
+      213: 8056479675053666836
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_20
+  - first:
+      213: -5020092683935674318
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_21
+  - first:
+      213: 2213220620633439967
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_22
+  - first:
+      213: -4005583634209640376
+    second: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 524
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4045fbed3567c80f0800000000000000
+      internalID: -1113384905275911164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 524
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf416e777a3b8c20800000000000000
+      internalID: 3209723444327436252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 524
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd0f58dc08ffc860800000000000000
+      internalID: 7552527834177015228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 524
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13a646b4df11eb70800000000000000
+      internalID: 8926450934876644125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 413
+        width: 118
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75562b52e373c750800000000000000
+      internalID: 6324025717787350397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 398
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d8cfd2e946bdcc0800000000000000
+      internalID: -3685241239533482655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 394
+        width: 117
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c85293f82a2df0800000000000000
+      internalID: -204305806494480489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 421
+        width: 124
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a826d9f9e18b1c5c0800000000000000
+      internalID: -4196870936066170230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 440
+        width: 123
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeb7469650d54d30800000000000000
+      internalID: 4415164080013688507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 290
+        width: 120
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc77fd7cb32660e0800000000000000
+      internalID: -2277093269115011850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 309
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad67ea153c54620800000000000000
+      internalID: 2757825102421088935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 310
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea621cc17b8836b30800000000000000
+      internalID: 4279414390974916270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_12
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 310
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70f2699adae8bfb0800000000000000
+      internalID: -4631693992153386883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_13
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 308
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74624abb0aec4f9f0800000000000000
+      internalID: -435496074209909177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 180
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b7d6bc5d159f970800000000000000
+      internalID: 8789146126473067297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 178
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53215fa85b0e98b40800000000000000
+      internalID: 5443128694978974261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_16
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 180
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb0b188652ecaee0800000000000000
+      internalID: -1248374135409931274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e3e40303e101590800000000000000
+      internalID: -7705625770113220962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_18
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 178
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9dee9014978e9750800000000000000
+      internalID: 6313632797623774619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 44
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdd12c7cddabf710800000000000000
+      internalID: 1728166044513721854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4127ab3549d5ecf60800000000000000
+      internalID: 8056479675053666836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_21
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 44
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2301a723d4c055ab0800000000000000
+      internalID: -5020092683935674318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_22
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 44
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdefc66ad60f6be10800000000000000
+      internalID: 2213220620633439967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_23
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 44
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840f0dc38ee4968c0800000000000000
+      internalID: -4005583634209640376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_0: -1113384905275911164
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_1: 3209723444327436252
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_10: 2757825102421088935
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_11: 4279414390974916270
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_12: -4631693992153386883
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_13: -435496074209909177
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_14: 8789146126473067297
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_15: 5443128694978974261
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_16: -1248374135409931274
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_17: -7705625770113220962
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_18: 6313632797623774619
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_19: 1728166044513721854
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_2: 7552527834177015228
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_20: 8056479675053666836
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_21: -5020092683935674318
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_22: 2213220620633439967
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_23: -4005583634209640376
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_3: 8926450934876644125
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_4: 6324025717787350397
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_5: -3685241239533482655
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_6: -204305806494480489
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_7: -4196870936066170230
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_8: 4415164080013688507
+      20x_2-Tone_PixelGrassTufts_SpriteSheet_Preview_9: -2277093269115011850
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
